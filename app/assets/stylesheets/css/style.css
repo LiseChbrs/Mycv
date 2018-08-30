@@ -1,0 +1,126 @@
+body {
+    background: #f4f4f4;
+    color: #757575;
+    font-family: 'Alegreya Sans', sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 60px;
+}
+
+.container {
+    background: #fff;
+    padding: 70px 75px;
+    margin: 50px auto;
+    border: 1px solid #a5d4fc;
+}
+
+#header {
+    background-image: url("lise.jpg");
+    background-repeat: no-repeat;
+    background-size: 15em;
+    background-position: right;
+    margin-right: 7em;
+}
+
+#citation {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+hr {
+    margin: 40px 0;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: #000;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.3em;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 1.4em;
+    text-transform: uppercase;
+    color: #000;
+    margin-top: 0;
+}
+
+h4 {
+    margin: 15px 0 0;
+}
+
+p,
+a {
+    line-height: 1.7em;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+li {
+    padding: 7px 0;
+}
+
+
+.signature {
+    font-family: 'Kristi', cursive;
+    color: #3e3f40;
+    font-size: 2.2em;
+    margin-top: 20px;
+}
+
+.social {
+    margin-right: 7px;
+}
+
+
+.secicon.fa {
+    font-size: 28px;
+    color: #000;
+    margin-right: 10px;
+}
+
+.sub {
+    margin-bottom: 15px;
+}
+
+
+.mainleft {
+    padding-right: 30px;
+}
+
+
+.year,
+.share {
+    text-align: right;
+}
+
+.competences {
+    padding-top: 20px;
+}
+
+.espace {
+    padding-top: 17em;
+}
+
+.hobbies {
+    padding-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer p,
+footer a {
+    font-size: 13px;
+}
