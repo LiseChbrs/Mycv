@@ -59,6 +59,9 @@ li {
     padding: 7px 0;
 }
 
+.info ul li a {
+    text-decoration: none;
+}
 
 .signature {
     font-family: 'Kristi', cursive;
@@ -98,7 +101,7 @@ li {
 }
 
 .espace {
-    padding-top: 133px;
+    padding-top: 15em;
 }
 
 .hobbies {
